@@ -9,7 +9,7 @@
 import XCTest
 @testable import ToDo
 
-class ItemListViewControllerTest: XCTestCase {
+class ItemListViewControllerTests: XCTestCase {
 
     var sut : ItemListViewController!
     
